@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708525937 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\vectores\matiz_universidad_facultades\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string>
+
