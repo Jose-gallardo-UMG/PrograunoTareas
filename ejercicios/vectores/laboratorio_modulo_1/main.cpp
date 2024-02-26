@@ -151,4 +151,3 @@ int determinarEquipoRelegado(int matriz[NUMERO_EQUIPOS][NUMERO_EQUIPOS], string 
     }
     return equipo_relegado;
 }
-

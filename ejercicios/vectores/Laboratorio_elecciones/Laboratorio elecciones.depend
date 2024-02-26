@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708830865 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\vectores\laboratorio elecciones\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<limits>
+
