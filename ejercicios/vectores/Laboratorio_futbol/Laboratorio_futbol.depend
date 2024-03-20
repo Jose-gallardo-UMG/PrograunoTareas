@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1708833438 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\vectores\laboratorio_futbol\main.cpp
+1708834460 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\vectores\laboratorio_futbol\main.cpp
 	<iostream>
 	<cstdlib>
 	<ctime>
 	<string>
 	<iomanip>
+	<climits>
 
