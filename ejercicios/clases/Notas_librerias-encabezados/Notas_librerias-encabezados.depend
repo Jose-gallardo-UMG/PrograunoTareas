@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1712630409 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\clases\notas_librerias-encabezados\src\semestre1.cpp
+	"semestre1.h"
+
+1712630409 d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\clases\notas_librerias-encabezados\include\semestre1.h
+	<iomanip>
+	<iostream>
+
+1712630409 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\clases\notas_librerias-encabezados\src\semestre2.cpp
+	"semestre2.h"
+
+1712630409 d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\clases\notas_librerias-encabezados\include\semestre2.h
+	<iomanip>
+	<iostream>
+
+1712630409 source:d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\clases\notas_librerias-encabezados\src\semestre3.cpp
+	"semestre3.h"
+
+1712630409 d:\umg\programacion1\clases\repositorios\prograunotareas\ejercicios\clases\notas_librerias-encabezados\include\semestre3.h
+	<iomanip>
+	<iostream>
+
